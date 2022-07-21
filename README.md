@@ -2,6 +2,9 @@
 
 This project aims to develop hands-on experience with open source by building an open-source interactive graph editing tool.
 
+## Wireframe
+<img src="title_image.PNG" alt="J" width="700"/>
+
 ## Milestones
 
 As of 20 June, 2022, the milestones are as follows. These will be revised as the project proceeds.
