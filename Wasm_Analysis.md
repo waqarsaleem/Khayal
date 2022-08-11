@@ -6,7 +6,6 @@ Brython’s goal is to replace JavaScript with Python as the scripting language 
 ### 2. Blazor
 If you prefer to program and run C# in the browser, Blazor is the way to go. Like Pyodide, it also appeared in 2018 and comes in two flavors: Server and WebAssembly.  It’s also cross-platform, so you can develop Blazor apps on Linux and Mac as well as Windows. Blazor builds on ASP.NET using Razor syntax which mixes HTML with code
 
-### Conclucion
 Each of these programming technologies, including the C# Blazor WebAssembly, uses JavaScript behind the scenes in one way or another, even if only to load a component. But you don’t need to know JavaScript to use any of them.
 | **C# ->(Blazor)**                                        | **Python ->(Pyodide)**                                      |
 | --------------------------------------------- | ----------------------------------------------- |
@@ -22,3 +21,5 @@ Each of these programming technologies, including the C# Blazor WebAssembly, use
 |Its been a lot of work in this domain such as IOT, Authentication, Cloud, CMS, Logging, Machine Learning, Rapid Development Framework, Build native mobile apps.                            | Worked Specifically in the domain of Data Science.             |
 | **Projects**                               |
 |A large number of projects are being made                          | lesser number of projects             |
+| **Forums Support**                               |
+|  More support available                            |  lesser support is available             |
