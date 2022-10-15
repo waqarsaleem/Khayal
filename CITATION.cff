@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Saleem
+    given-names: Waqar
+  - family-names: Pasta
+    given-names: Muhammad Qasim
+  - family-names: Naqvi
+    given-names: Syed Muhammad Ali 
+  - family-names: Hussain
+    given-names: Syed  Muhammad
+title: "Project Khayal: an online graph editing library"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-08-11
